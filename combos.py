@@ -11,7 +11,7 @@ def retrocederMenu(combos):
 
 
 def avisoReserva(combo):
-    msg.showinfo("Aviso", message="Su reserva fue registrada con éxito")
+    msg.showinfo("Aviso", message="SAAAAAAito")
     guardar_reserva(combo)
 
 def guardar_reserva(combo):
