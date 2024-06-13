@@ -5,7 +5,7 @@ import subprocess
 
 # Crear la ventana principal
 ventana = tk.Tk()
-ventana.title("Menu Cine Cuenca")
+ventana.title("A CASA")
 ventana.configure(background="black")
 
 def salir():
